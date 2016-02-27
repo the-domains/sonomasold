@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SonomaSold]]></title>
+        <description><![CDATA[SonomaSold]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 15:38:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Listing in Santa Rosa]]></title>
+            <description><![CDATA[<article><h1>New Listing in Santa Rosa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf918c104e04b9a312bd73aef377bb41a9c09706.jpg"></article>]]></description>
+            <link>http://www.sonomasold.com/listing/21602174-2208-hibiscus-dr-santa-rosa-ca-95404-6184/</link>
+            <guid isPermaLink="false">ea1fdfdc-c927-41e1-ba79-8b7d6328df70</guid>
+            <pubDate>Sat, 27 Feb 2016 15:38:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
